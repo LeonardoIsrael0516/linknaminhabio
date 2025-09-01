@@ -19,7 +19,7 @@ const FAQ = () => {
     },
     {
       question: "🔗 Como fica meu link?",
-      answer: "Você ganha um link limpo e profissional, tipo: linknaminhabio.com.br/seunome. Nada de links enormes e confusos."
+      answer: "Você ganha um link limpo e profissional, tipo: linknaminhabio.com/seunome. Nada de links enormes e confusos."
     },
     {
       question: "⚡ Em quanto tempo fica pronto?",
