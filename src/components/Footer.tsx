@@ -1,4 +1,4 @@
-import { MessageCircle, Mail } from "lucide-react";
+import { MessageCircle } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -11,13 +11,6 @@ const Footer = () => {
               alt="Logo MeuLink"
               className="w-14 h-14 object-contain"
             />
-          </div>
-          
-          <div className="space-y-4">
-            <div className="flex items-center justify-center space-x-2">
-              <Mail size={20} className="text-purple-400" />
-              <span>Email de suporte: contato@linknaminhabio.com.br</span>
-            </div>
           </div>
         </div>
         

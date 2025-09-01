@@ -76,17 +76,6 @@ const FAQ = () => {
             </div>
           ))}
         </div>
-
-        <div className="text-center mt-12">
-          <div className="bg-gradient-to-r from-purple-50 to-pink-50 rounded-2xl p-8 max-w-2xl mx-auto">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">
-              🗨️ Ainda tem dúvida?
-            </h3>
-            <p className="text-gray-600 mb-6">
-              Entre em contato conosco pelo email de suporte. Respondemos rapidinho e sem enrolação!
-            </p>
-          </div>
-        </div>
       </div>
     </section>
   );
