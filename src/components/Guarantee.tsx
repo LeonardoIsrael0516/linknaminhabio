@@ -21,7 +21,7 @@ const Guarantee = () => {
     {
       name: "Carlos Eduardo",
       role: "Prestador de Serviços",
-      content: "Meus clientes aumentaram 200% depois que mudei para o Link Aki. A diferença é visível!",
+      content: "Meus clientes aumentaram 200% depois que mudei para o Link Na Minha Bio. A diferença é visível!",
       rating: 5
     },
     {

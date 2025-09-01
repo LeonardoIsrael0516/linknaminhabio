@@ -19,7 +19,7 @@ const FAQ = () => {
     },
     {
       question: "🔗 Como fica meu link?",
-      answer: "Você ganha um link limpo e profissional, tipo: linkaki.com.br/seunome. Nada de links enormes e confusos."
+      answer: "Você ganha um link limpo e profissional, tipo: linknaminhabio.com.br/seunome. Nada de links enormes e confusos."
     },
     {
       question: "⚡ Em quanto tempo fica pronto?",
@@ -83,16 +83,8 @@ const FAQ = () => {
               🗨️ Ainda tem dúvida?
             </h3>
             <p className="text-gray-600 mb-6">
-              Nosso suporte é 100% via WhatsApp. Fale com a gente, respondemos rapidinho e sem enrolação!
+              Entre em contato conosco pelo email de suporte. Respondemos rapidinho e sem enrolação!
             </p>
-            <a
-              href="http://wa.me/+551143066056"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-semibold flex items-center justify-center space-x-2 transition-transform"
-            >
-              <span>💬 Falar com o Suporte no WhatsApp</span>
-            </a>
           </div>
         </div>
       </div>

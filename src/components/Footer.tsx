@@ -16,14 +16,14 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center justify-center space-x-2">
               <Mail size={20} className="text-purple-400" />
-              <span>Email de suporte: contato@linkaki.com.br</span>
+              <span>Email de suporte: contato@linknaminhabio.com.br</span>
             </div>
           </div>
         </div>
         
         <div className="border-t border-gray-800 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 Link Aki. Todos os direitos reservados.
+            © 2025 Link Na Minha Bio. Todos os direitos reservados.
           </p>
         </div>
       </div>

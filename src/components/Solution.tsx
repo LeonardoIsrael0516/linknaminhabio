@@ -40,14 +40,14 @@ const Solution = () => {
             <div className="flex items-center mb-6">
               <img
                 src="/lovable-uploads/favicon.png"
-                alt="Logo Link Aki"
+                alt="Logo Link Na Minha Bio"
                 className="w-16 h-16 rounded-lg mr-4 object-contain"
               />
               <span className="text-2xl font-bold"></span>
             </div>
             
             <p className="text-lg text-purple-100 leading-relaxed mb-6">
-              Com o Link Aki, você tem acesso a todos os templates em um só lugar, e sem precisar do Canva pra editar, é tudo simples e intuitivo pela plataforma e com direito a <strong>domínio próprio</strong>. Você também pode criar seus Links do zero!
+              Com o Link Na Minha Bio, você tem acesso a todos os templates em um só lugar, e sem precisar do Canva pra editar, é tudo simples e intuitivo pela plataforma e com direito a <strong>domínio próprio</strong>. Você também pode criar seus Links do zero!
             </p>
             
             <p className="text-lg text-purple-100 leading-relaxed">

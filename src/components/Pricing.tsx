@@ -11,7 +11,7 @@ const Pricing = () => {
             <div className="text-center">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">Start</h3>
               <div className="mb-8">
-                <div className="text-5xl md:text-6xl font-bold text-green-600 mb-4">R$ 97,90</div>
+                <div className="text-5xl md:text-6xl font-bold text-green-600 mb-4">R$ 19,90</div>
                 <div className="text-lg text-gray-700 mb-4">Anual</div>
               </div>
               
@@ -43,7 +43,7 @@ const Pricing = () => {
               </div>
               
               <Button size="lg" className="bg-gradient-to-r from-green-600 to-green-500 hover:from-green-700 hover:to-green-600 text-white px-6 py-6 text-xs md:text-sm font-bold mb-6 w-full" asChild>
-                <a href="https://pay.cakto.com.br/paxy995_534843" target="_blank" rel="noopener noreferrer">
+                <a href="https://pay.cakto.com.br/3aidkti_484594" target="_blank" rel="noopener noreferrer">
                   🔥 QUERO MEU ACESSO
                 </a>
               </Button>
@@ -63,7 +63,7 @@ const Pricing = () => {
             <div className="text-center">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">Agência</h3>
               <div className="mb-8">
-                <div className="text-5xl md:text-6xl font-bold text-green-600 mb-4">R$ 167,90</div>
+                <div className="text-5xl md:text-6xl font-bold text-green-600 mb-4">R$ 29,90</div>
                 <div className="text-lg text-gray-700 mb-4">Anual</div>
               </div>
               
@@ -98,7 +98,7 @@ const Pricing = () => {
               </div>
               
               <Button size="lg" className="bg-gradient-to-r from-purple-600 to-purple-500 hover:from-purple-700 hover:to-purple-600 text-white px-6 py-6 text-xs md:text-sm font-bold mb-6 w-full" asChild>
-                <a href="https://pay.cakto.com.br/3eyce5c" target="_blank" rel="noopener noreferrer">
+                <a href="https://pay.cakto.com.br/3464gvw" target="_blank" rel="noopener noreferrer">
                   ⭐ COMEÇAR AGORA
                 </a>
               </Button>
@@ -115,7 +115,7 @@ const Pricing = () => {
             <div className="text-center">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">Full</h3>
               <div className="mb-8">
-                <div className="text-5xl md:text-6xl font-bold text-green-600 mb-4">R$ 297,90</div>
+                <div className="text-5xl md:text-6xl font-bold text-green-600 mb-4">R$ 49,90</div>
                 <div className="text-lg text-gray-700 mb-4">Anual</div>
               </div>
               
@@ -150,7 +150,7 @@ const Pricing = () => {
               </div>
               
               <Button size="lg" className="bg-gradient-to-r from-green-600 to-green-500 hover:from-green-700 hover:to-green-600 text-white px-6 py-6 text-sm md:text-base font-bold mb-6 w-full" asChild>
-                <a href="https://pay.cakto.com.br/c7h75kd" target="_blank" rel="noopener noreferrer">
+                <a href="https://pay.cakto.com.br/eusyxtm" target="_blank" rel="noopener noreferrer">
                   🚀 COMEÇAR AGORA
                 </a>
               </Button>

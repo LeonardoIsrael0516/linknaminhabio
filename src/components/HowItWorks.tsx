@@ -5,7 +5,7 @@ const HowItWorks = () => {
   const steps = [
     {
       icon: UserPlus,
-      title: "1. Acesse a plataforma premium do Link Aki",
+      title: "1. Acesse a plataforma premium do Link Na Minha Bio",
       description: "Entre na nossa plataforma exclusiva com acesso total aos recursos"
     },
     {
