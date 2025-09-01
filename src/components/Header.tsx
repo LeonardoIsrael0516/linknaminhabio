@@ -1,4 +1,5 @@
 import React from "react";
+import { LogIn } from "lucide-react";
 
 const Header = () => {
   return (
@@ -20,9 +21,10 @@ const Header = () => {
               href="https://linknaminhabio.com/login"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-purple-600 hover:bg-purple-700 text-white px-6 py-2 rounded-lg font-semibold transition-colors"
+              className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold transition-colors flex items-center space-x-2"
             >
-              Login
+              <LogIn size={18} />
+              <span>Login</span>
             </a>
           </div>
           
@@ -32,9 +34,10 @@ const Header = () => {
               href="https://linknaminhabio.com/login"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded-lg font-semibold text-sm transition-colors"
+              className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-semibold text-sm transition-colors flex items-center space-x-2"
             >
-              Login
+              <LogIn size={16} />
+              <span>Login</span>
             </a>
           </div>
         </div>
